@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Dhruv Chandwani
+# Author: Bhavya Manish Jain
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Dhruv Chandwani"
+STUDENT_NAME="Bhavya Manish Jain"
 SOFTWARE_CHOICE="Python"
 
 # System information
