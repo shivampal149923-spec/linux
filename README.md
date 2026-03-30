@@ -97,8 +97,3 @@ Interactive script that:
 
 ---
 
-## How to Run the Scripts
-
-Make scripts executable:
-```bash
-chmod +x *.sh
